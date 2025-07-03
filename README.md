@@ -1,16 +1,14 @@
-## Hi there 👋
+## Howdy! 👋
 
-<!--
-**pickled-dyl/pickled-dyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Learning
+- HTML/CSS
+- Javascript
+- Python
 
-Here are some ideas to get you started:
+### Hobbies
+- Drawing
+- Writing
+- Crochet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=pickled-dyl&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
